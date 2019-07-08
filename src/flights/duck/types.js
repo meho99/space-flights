@@ -1,0 +1,15 @@
+// ----- types -----
+
+const ADD_FLIGHT = 'ADD_FLIGHT';
+const ADD_FLIGHT_TOURIST = 'ADD_FLIGHT_TOURIST';
+const DEL_FLIGHT = 'DEL_FLIGHT';
+const DEL_TOURIST = 'DEL_TOURIST';
+const DEL_TOURIST_ALL = 'DEL_TOURIST_ALL'
+
+export default{
+    ADD_FLIGHT,
+    ADD_FLIGHT_TOURIST,
+    DEL_FLIGHT,
+    DEL_TOURIST,
+    DEL_TOURIST_ALL
+}

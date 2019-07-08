@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1.4em;
+  vertical-align: baseline;
+  text-decoration: none;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+  color: #8099c2;
+  text-align: center;
+  font-size: 1vw;
+}
+body {
+  margin: 0;
+  background-color: #252525;
+  min-height: 100vh;
+  background-size: cover;
+}
+.is-active{
+  text-decoration: underline;
+  text-decoration-color: #0AA40C;
+}
